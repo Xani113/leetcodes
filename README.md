@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Xani113/leetcodes/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Xani113/leetcodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -52,16 +54,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
