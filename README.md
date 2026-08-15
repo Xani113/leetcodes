@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
