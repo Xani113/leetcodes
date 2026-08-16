@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Xani113/leetcodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Xani113/leetcodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Xani113/leetcodes/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Xani113/leetcodes/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Xani113/leetcodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
