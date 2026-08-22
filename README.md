@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Xani113/leetcodes/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Xani113/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
