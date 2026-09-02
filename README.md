@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xani113/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Xani113/leetcodes/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Xani113/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Xani113/leetcodes/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Xani113/leetcodes/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -136,7 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Xani113/leetcodes/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Xani113/leetcodes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Xani113/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Xani113/leetcodes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
