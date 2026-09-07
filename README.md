@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Xani113/leetcodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Xani113/leetcodes/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Xani113/leetcodes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xani113/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Xani113/leetcodes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Xani113/leetcodes/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Xani113/leetcodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
