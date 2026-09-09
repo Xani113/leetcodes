@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Xani113/leetcodes/tree/master/0796-rotate-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
