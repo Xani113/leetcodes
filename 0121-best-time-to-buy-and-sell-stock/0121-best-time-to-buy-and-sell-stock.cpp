@@ -1,21 +1,15 @@
-static const int fast_io = []() {
-    std::ios_base::sync_with_stdio(false);
-    std::cin.tie(NULL);
-    return 0;
-}();
-
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int min_price = prices[0];
-        int max_profit = 0;
-        for (int p : prices) {
-            if (p < min_price) {
-                min_price = p;
-            } else if (p - min_price > max_profit) {
-                max_profit = p - min_price;
+    int maxProfit(std::vector<int>& prices) {
+        int buy = prices[0];
+        int profit = 0;
+        for (int i = 1; i < prices.size(); i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
             }
         }
-        return max_profit;
+        return profit;
     }
 };
