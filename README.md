@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Xani113/leetcodes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Xani113/leetcodes/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Xani113/leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xani113/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Xani113/leetcodes/tree/master/0136-single-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Xani113/leetcodes/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xani113/leetcodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Xani113/leetcodes/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xani113/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Xani113/leetcodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Xani113/leetcodes/tree/master/0229-majority-element-ii) |
