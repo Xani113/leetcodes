@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Xani113/leetcodes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Xani113/leetcodes/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Xani113/leetcodes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Xani113/leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xani113/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Xani113/leetcodes/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Xani113/leetcodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Xani113/leetcodes/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Xani113/leetcodes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Xani113/leetcodes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
