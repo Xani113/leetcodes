@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Xani113/leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Xani113/leetcodes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Xani113/leetcodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Xani113/leetcodes/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Xani113/leetcodes/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xani113/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Xani113/leetcodes/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Xani113/leetcodes/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
