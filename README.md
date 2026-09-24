@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Xani113/leetcodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Xani113/leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Xani113/leetcodes/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Xani113/leetcodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Xani113/leetcodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Xani113/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
