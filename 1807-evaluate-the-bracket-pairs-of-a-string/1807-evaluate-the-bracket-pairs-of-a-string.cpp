@@ -1,26 +1,39 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        unordered_map<string, string> dict;
-        for (auto& kv : knowledge) {
-            dict[kv[0]] = kv[1];
+        unordered_map<string, string> mp;
+
+        for(auto& list : knowledge) {
+            mp[list[0]] = list[1];
         }
 
-        string result;
-        result.reserve(s.size());
-        int n = s.size(), i = 0;
+        string key = "";
+        string res = "";
+        bool flag = false;
 
-        while (i < n) {
-            if (s[i] == '(') {
-                int j = i + 1;
-                while (s[j] != ')') j++;
-                string key = s.substr(i + 1, j - i - 1);
-                result += dict.count(key) ? dict[key] : "?";
-                i = j + 1;
-            } else {
-                result += s[i++];
+        for(char ch : s) {
+            if(ch == '(') {
+                flag = true;
+            }
+            else if(ch == ')') {
+                if(mp.find(key) != mp.end()) {
+                    res += mp[key];
+                }
+                else {
+                    res += "?";
+                }
+
+                flag = false;
+                key = "";
+            }
+            else if(flag) {
+                key += ch;
+            }
+            else {
+                res += ch;
             }
         }
-        return result;
+
+        return res;
     }
 };
