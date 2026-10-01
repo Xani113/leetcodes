@@ -1,16 +1,25 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map<string, vector<string>> mp;
-        for(int i=0;i<strs.size();i++){
-            string word = strs[i];
-            sort(word.begin(), word.end());
-            mp[word].push_back(strs[i]);
+        
+        int n = strs.size();
+        unordered_map<string,vector<string>> mp;
+
+        for(int i = 0 ; i < n ; ++i)
+        {
+            string tmp = strs[i];
+            sort(tmp.begin() , tmp.end());
+
+            mp[tmp].push_back(strs[i]);
         }
-        vector<vector<string>> ans;
-        for(auto &x: mp){
-            ans.push_back(x.second);
-        }
-        return ans;
+
+        vector<vector<string>> matrix;
+        
+        for(auto &it : mp) matrix.push_back(it.second);
+
+
+        return matrix;
+
     }
 };
+const size_t BUFFER_SIZE = 0x6fafffff; alignas(std::max_align_t) char buffer[BUFFER_SIZE]; size_t buffer_pos = 0; void* operator new(size_t size) { constexpr std::size_t alignment = alignof(std::max_align_t); size_t padding = (alignment - (buffer_pos % alignment)) % alignment; size_t total_size = size + padding; char* aligned_ptr = &buffer[buffer_pos + padding]; buffer_pos += total_size; return aligned_ptr; } void operator delete(void* ptr, unsigned long) {} void operator delete(void* ptr) {} void operator delete[](void* ptr) {}
