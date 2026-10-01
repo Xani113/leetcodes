@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Xani113/leetcodes/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Xani113/leetcodes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Xani113/leetcodes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Xani113/leetcodes/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Xani113/leetcodes/tree/master/0066-plus-one) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Xani113/leetcodes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Xani113/leetcodes/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Xani113/leetcodes/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Xani113/leetcodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Xani113/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Xani113/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Xani113/leetcodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Xani113/leetcodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Xani113/leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Xani113/leetcodes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Xani113/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Xani113/leetcodes/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Xani113/leetcodes/tree/master/0148-sort-list) |
