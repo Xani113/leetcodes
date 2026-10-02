@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Xani113/leetcodes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Xani113/leetcodes/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Xani113/leetcodes/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Xani113/leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Xani113/leetcodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Xani113/leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Xani113/leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
