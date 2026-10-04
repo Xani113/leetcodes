@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Xani113/leetcodes/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Xani113/leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Xani113/leetcodes/tree/master/0796-rotate-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Xani113/leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xani113/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Xani113/leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Xani113/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Xani113/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Xani113/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## Merge Sort
 |  |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Xani113/leetcodes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
