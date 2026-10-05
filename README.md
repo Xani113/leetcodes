@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Xani113/leetcodes/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Xani113/leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Xani113/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/Xani113/leetcodes/tree/master/2390-removing-stars-from-a-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Xani113/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Xani113/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## Merge Sort
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Xani113/leetcodes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
