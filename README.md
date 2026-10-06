@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Xani113/leetcodes/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Xani113/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Xani113/leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Xani113/leetcodes/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Xani113/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Xani113/leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Xani113/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/Xani113/leetcodes/tree/master/2390-removing-stars-from-a-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Xani113/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Xani113/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## Merge Sort
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Xani113/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
