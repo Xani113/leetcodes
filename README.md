@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Xani113/leetcodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Xani113/leetcodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Xani113/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Xani113/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Xani113/leetcodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Xani113/leetcodes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Xani113/leetcodes/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
