@@ -11,17 +11,15 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set<int> s;
-        for(int num:nums) s.insert(num);
-        ListNode* dummy=new ListNode(0,head);
-        ListNode* curr=dummy;
-        while(curr->next != nullptr){
-            if(s.count(curr->next->val)){
-                curr->next=curr->next->next;
-            }else{
-                curr=curr->next;
+        std::sort(nums.begin(), nums.end());
+        ListNode** curr = &head;
+        while (*curr != nullptr) {
+            if (std::binary_search(nums.begin(), nums.end(), (*curr)->val)) {
+                *curr = (*curr)->next;
+            } else {
+                curr = &((*curr)->next);
             }
         }
-        return dummy->next;
+        return head;
     }
 };
