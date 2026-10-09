@@ -11,14 +11,19 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        std::sort(nums.begin(), nums.end());
-        ListNode** curr = &head;
-        while (*curr != nullptr) {
-            if (std::binary_search(nums.begin(), nums.end(), (*curr)->val)) {
-                *curr = (*curr)->next;
-            } else {
-                curr = &((*curr)->next);
-            }
+        bool remove[100001] = {};
+        for (int x : nums)
+            remove[x] = true;
+        while (head && remove[head->val])
+            head = head->next;
+        if (!head)
+            return nullptr;
+        ListNode* cur = head;
+        while (cur->next) {
+            if (remove[cur->next->val])
+                cur->next = cur->next->next;
+            else
+                cur = cur->next;
         }
         return head;
     }
