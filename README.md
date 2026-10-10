@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Xani113/leetcodes/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Xani113/leetcodes/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Xani113/leetcodes/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Xani113/leetcodes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Xani113/leetcodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Xani113/leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Xani113/leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Xani113/leetcodes/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Xani113/leetcodes/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Xani113/leetcodes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Xani113/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
