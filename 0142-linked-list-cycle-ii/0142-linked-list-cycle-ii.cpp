@@ -7,20 +7,23 @@ static const int fast_io = []() {
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
-            if (slow == fast) {
-                slow = head;
-                while (slow != fast) {
-                    slow = slow->next;
-                    fast = fast->next;
-                }
-                return slow;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        bool isCycle=false;
+        while(fast != nullptr && fast->next != nullptr){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow == fast){
+                isCycle=true;
+                break;
             }
         }
-        return nullptr;
+        if(!isCycle) return NULL;
+        slow=head;
+        while(slow != fast){
+            slow = slow->next;
+            fast = fast->next;
+        }
+        return slow;
     }
 };
