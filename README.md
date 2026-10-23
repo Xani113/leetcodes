@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Xani113/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Xani113/leetcodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Xani113/leetcodes/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Xani113/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Xani113/leetcodes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Xani113/leetcodes/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Xani113/leetcodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Xani113/leetcodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xani113/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xani113/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Xani113/leetcodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Xani113/leetcodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Xani113/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xani113/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Xani113/leetcodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Xani113/leetcodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Xani113/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -429,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Xani113/leetcodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Xani113/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Xani113/leetcodes/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
