@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Xani113/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Xani113/leetcodes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Xani113/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Xani113/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Xani113/leetcodes/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Xani113/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Xani113/leetcodes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Xani113/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Xani113/leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Xani113/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Xani113/leetcodes/tree/master/0905-sort-array-by-parity) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Xani113/leetcodes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Xani113/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Xani113/leetcodes/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xani113/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Xani113/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Xani113/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Xani113/leetcodes/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Xani113/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Xani113/leetcodes/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Xani113/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -441,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Xani113/leetcodes/tree/master/0098-validate-binary-search-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Xani113/leetcodes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
