@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Xani113/leetcodes/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Xani113/leetcodes/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Xani113/leetcodes/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Xani113/leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Xani113/leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Xani113/leetcodes/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Xani113/leetcodes/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Xani113/leetcodes/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Xani113/leetcodes/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Xani113/leetcodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Xani113/leetcodes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Xani113/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Xani113/leetcodes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Xani113/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Xani113/leetcodes/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
