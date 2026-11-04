@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Xani113/leetcodes/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Xani113/leetcodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Xani113/leetcodes/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Xani113/leetcodes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Xani113/leetcodes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Xani113/leetcodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Xani113/leetcodes/tree/master/0509-fibonacci-number) |
